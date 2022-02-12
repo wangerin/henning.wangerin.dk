@@ -20,3 +20,15 @@
 ## Ønsker
 * Anhængertræk. Mindst 750 kg/uden bræmser
 * Adaptiv fartpilot
+
+
+
+
+
+## Negative ting
+
+
+
+
+## Absolut no-go
+* Sænket undervogn
