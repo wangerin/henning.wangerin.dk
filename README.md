@@ -1,2 +1,2 @@
 # henning.wangerin.dk
-Website
+Static parts of my personal website
