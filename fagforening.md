@@ -23,7 +23,7 @@ Desuden har der været flere eksempler i medierne.
 
 
 ### 2019 i nyhederne
-(Lydfil afslører fagforening true ansat i lufthavnen: - Føj for satan, hvor er du klam)[https://nyheder.tv2.dk/business/2019-09-11-lydfil-afsloerer-fagforening-true-ansat-i-lufthavnen-foej-for-satan-hvor-er-du]
+[Lydfil afslører fagforening true ansat i lufthavnen: - Føj for satan, hvor er du klam](https://nyheder.tv2.dk/business/2019-09-11-lydfil-afsloerer-fagforening-true-ansat-i-lufthavnen-foej-for-satan-hvor-er-du)
 
 
 
