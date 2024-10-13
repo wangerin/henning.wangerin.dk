@@ -1,4 +1,4 @@
-# Krav til ny bil
+# Krav til ny (gammel) bil
 
 ## Absolute ufravigelige krav
 * Anhængertræk. Mindst 500 kg/uden bræmser.
@@ -18,8 +18,8 @@
 
 
 ## Ønsker
-* Anhængertræk. Mindst 750 kg/uden bræmser
-* Adaptiv fartpilot
+* Anhængertræk. 750 kg/uden bræmser
+* Adaptiv fartpilot.
 
 
 
@@ -31,4 +31,4 @@
 
 
 ## Absolut no-go
-* Sænket undervogn
+* Sænket undervogn.
